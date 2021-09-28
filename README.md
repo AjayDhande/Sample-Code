@@ -1,1 +1,1 @@
-# Sample-Code
+# SampleCode
